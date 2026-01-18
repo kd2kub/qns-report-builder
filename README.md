@@ -17,4 +17,5 @@ Second,  Here is how it works:
 ## Installation
 Simply clone this repository in your choice of directory. 
 
-## Issues, Irritations, Aggrvations? -- Feel free to enter an issue. 
+## Issues, Irritations, Aggrvations?
+Feel free to enter an issue. 
